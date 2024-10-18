@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/yolov8_segment/Data
+train: images/train 
+val: images/val  
+
+nc: 1
+names: ['duck']
